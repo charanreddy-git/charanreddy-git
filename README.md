@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Charan Reddy</h1>
-<h3 align="center">Aspiring Competitive Programmer | Learning and Growing with Every Challenge</h3>
+<h3 align="center">Competitive Programmer | Learning and Growing with Every Challenge</h3>
 
-- 🌱 I’m currently learning **Competitive Programming**
+- 🌱 I’m currently enjoying **Competitive Programming**
+-    Started web dev-
 
-- 💬 Ask me about **CP|DSA**
+- 💬 Ask me about **CP**
 
 - 📫 How to reach me **charanreddy.puchala@gmail.com**
 
-- ⚡ Fun fact **I love playing Chess | Volleyball**
+- ⚡ Fun fact **I love playing Chess | Volleyball | solving puzzles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
