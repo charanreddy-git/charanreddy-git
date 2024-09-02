@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charan Reddy</h1>
-<h3 align="center">Competitive Programmer | Learning and Growing with Every Challenge</h3>
+<h3 align="center">Competitive Programmer </h3>
 
 - 🌱 I’m currently enjoying **Competitive Programming**
 -    Started web dev-
