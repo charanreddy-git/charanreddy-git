@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charan Reddy</h1>
-- 🔭 I’m currently enjoying Competitive Programming
+- 🔭 I enjoy solving algorithmic problems 
 
-- 🌱 I’m currently learning **Web dev**
+- 🌱 I’m currently learning **Web development**
 
 - 📫 How to reach me **charanreddy.puchala@gmail.com**
 <h3 align="left">Connect with me:</h3>
