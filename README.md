@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charan Reddy</h1>
 
 - 🔭 I enjoy solving algorithmic problems  
-- 🌱 I’m currently learning **Web development**  
-- 📫 Reach me at **charanreddy.puchala@gmail.com**  
+- 🌱 I’m currently learning **Web development**    
 
 ---
 
