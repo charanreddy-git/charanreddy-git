@@ -21,7 +21,7 @@ projects
       <sub>Bun · PostgreSQL · JavaScript</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/charanreddy-git/daysale">DaySale ↗</a></h3>
+      <h3><a href="https://github.com/charanreddy-git/daysalep">DaySale ↗</a></h3>
       <p>Instant daily sales summaries, built for my dad's company.</p>
       <sub>Node.js · Python · Flask</sub>
     </td>
